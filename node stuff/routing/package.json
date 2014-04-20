@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.0",
+  "description": "Express app with EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+  "express": "*",
+  "ejs":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresan21/Nodeapp.git"
+  },
+  "author": "Andres",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/andresan21/Nodeapp/issues"
+  },
+  "homepage": "https://github.com/andresan21/Nodeapp"
+}
